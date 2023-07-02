@@ -1,3 +1,6 @@
+// 参考：https://nyanblog2222.com/programming/javascript/5090/
+// 上記の実装をそのままやるとメモリでの管理のアプリができる。
+
 window.onload = function () {
     cleanupDisplay();
     showAllTasks();
